@@ -20,7 +20,10 @@ The easiest way to get the latest version of TicTacToeGame is to download the AP
 ## ✨ Features of MyTicTacToeGame
 
 * **Classic Tic-Tac-Toe:** Enjoy the timeless game you know and love.
-* **Modern UI/UX:** Built with React Native for a smooth and responsive user experience.
+* **Fully Offline:** Play anytime, anywhere – no internet connection required!
+* **Truly Native Experience:** Built with React Native for a smooth, responsive, and authentic Android feel.
+* **Ad-Free:** Enjoy uninterrupted gameplay without any annoying advertisements.
+* **Modern UI/UX:** A clean and intuitive design for an enjoyable user experience.
 * **Lightweight & Fast:** Optimized for quick loading and efficient gameplay.
 
 ## 🛠️ Technologies Used
