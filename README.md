@@ -6,9 +6,9 @@ This repository is dedicated solely to providing **stable and signed Android APK
 
 You won't find the full source code here (it resides in a separate repository), but you will find all the necessary releases to get our game running.
 
-## ⬇️ How to Get MyTicTacToeGame
+## ⬇️ How to Get TicTacToeGame
 
-The easiest way to get the latest version of MyTicTacToeGame is to download the APK file from our **[Releases page](https://github.com/SerhiiQAA/MyTicTacToeGame/releases)**.
+The easiest way to get the latest version of TicTacToeGame is to download the APK file from our Releases page:
 
 1.  Go to the [Releases page](https://github.com/SerhiiQAA/MyTicTacToeGame/releases) (click the link or find "Releases" on the right sidebar).
 2.  Find the latest release version (usually at the top).
