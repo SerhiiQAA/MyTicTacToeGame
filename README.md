@@ -36,4 +36,11 @@ The easiest way to get the latest version of TicTacToeGame is to download the AP
 
 If you encounter any issues or have questions, please feel free to [open an issue](https://github.com/SerhiiQAA/MyTicTacToeGame/issues) in this repository. We'll do our best to assist you!
 
+## 💖 Support the Project
+
+If you enjoy my mobile projects like MyFreeSnakeGame — consider supporting their development 🙌
+
+👉 [Donate via Monobank](https://send.monobank.ua/jar/6mVCH3drmi)
+
+💬 You can leave a comment with the game you're supporting!
 ---
