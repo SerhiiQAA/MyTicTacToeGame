@@ -29,6 +29,7 @@ The easiest way to get the latest version of TicTacToeGame is to download the AP
 * **Ad-Free:** Enjoy uninterrupted gameplay without any annoying advertisements.
 * **Modern UI/UX:** A clean and intuitive design for an enjoyable user experience.
 * **Lightweight & Fast:** Optimized for quick loading and efficient gameplay.
+* **No intrusive advertising**
 
 ---
 
