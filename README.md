@@ -6,6 +6,8 @@ This repository is dedicated solely to providing **stable and signed Android APK
 
 You won't find the full source code here (it resides in a separate repository), but you will find all the necessary releases to get our game running.
 
+---
+
 ## ⬇️ How to Get TicTacToeGame
 
 The easiest way to get the latest version of TicTacToeGame is to download the APK file from our Releases page:
@@ -17,6 +19,8 @@ The easiest way to get the latest version of TicTacToeGame is to download the AP
 5.  Open the `.apk` file on your device and follow the installation prompts.
     * *(Note: You might need to enable "Install from unknown sources" in your device settings to install APKs not from the Google Play Store. Please do so at your own risk and disable it after installation if you prefer.)*
 
+---
+
 ## ✨ Features of MyTicTacToeGame
 
 * **Classic Tic-Tac-Toe:** Enjoy the timeless game you know and love.
@@ -26,23 +30,34 @@ The easiest way to get the latest version of TicTacToeGame is to download the AP
 * **Modern UI/UX:** A clean and intuitive design for an enjoyable user experience.
 * **Lightweight & Fast:** Optimized for quick loading and efficient gameplay.
 
+---
+
 ## 🛠️ Technologies Used
 
 * React Native
 * Expo Go
 * JavaScript
 
+---
+
 ## ❓ Need Help or Have Questions?
 
 If you encounter any issues or have questions, please feel free to [open an issue](https://github.com/SerhiiQAA/MyTicTacToeGame/issues) in this repository. We'll do our best to assist you!
 
+---
+
+## 💖 Support the Project
+
 👉 [Donate via Monobank](https://send.monobank.ua/jar/6mVCH3drmi)
 
 💬 You can leave a comment with the game you're supporting!
+
+--- 
 
 ## 📜 License
 
 "All rights reserved. For personal use only."
 
 ---
+
 *Developed with passion by SerhiiQAA*
