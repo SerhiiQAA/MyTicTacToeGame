@@ -1,4 +1,4 @@
-# 🚀 TicTacToeGame - Android Releases 📱
+# 📱 TicTacToeGame
 
 Welcome to the official release repository for **TicTacToeGame**!
 
