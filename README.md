@@ -56,7 +56,7 @@ If you encounter any issues or have questions, please feel free to [open an issu
 --- 
 
 ## 📜 License
-"All rights reserved. For personal use only."
+All rights reserved. For personal use only.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Developed+with+passion+by+SerhiiQAA)](https://git.io/typing-svg)
 
