@@ -1,4 +1,4 @@
-#📱 TicTacToeGame
+# 📱 TicTacToeGame
 
 Welcome to the official release repository for **TicTacToeGame**!
 
